@@ -1,11 +1,11 @@
-📋 Clipboard
+<h1>📋 Clipboard</h1>
 
 Clipboard is a cross-platform app (iOS + macOS) that keeps a history of everything you copy. With cloud sync, you can access your clipboard snippets instantly on all your devices. Stay organized, boost productivity, and never lose an important piece of copied text again.
 
 
 ---
 
-🚀 Features
+<h1>🚀 Features</h1>
 
 Quick Search – Instantly find any snippet by content, category, or source.
 
